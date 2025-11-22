@@ -2,7 +2,7 @@
 
 A modern Netflix-style streaming platform landing page. Clean design, interactive features, and fully responsive.
 
-**Live Demo:** [distreaming.github.io](https://sayyeone.github.io/DiNetfliks/)
+**Live Demo:** [DiNetfliks.github.io](https://sayyeone.github.io/DiNetfliks/)
 ## What's This?
 
 DiStreaming is a complete landing page for a movie and TV show streaming service. Features trending content rankings, FAQ section, login modal, and smooth animations throughout. Perfect for showcasing a streaming service concept or as a portfolio project.
